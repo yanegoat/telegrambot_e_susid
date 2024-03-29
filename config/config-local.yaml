@@ -1,0 +1,9 @@
+telegram:
+  token: "6607362953:AAHq51eNlOotBWVC5DCmE0lenRt24w6e1jc"
+
+db:
+  host: "localhost"
+  port: 5432
+  user: "postgres"
+  password: "admin"
+  name: "tele_bot_e_susid"
